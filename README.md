@@ -40,15 +40,15 @@ NODE_ENV=production (It hides error stack traces from the API responses. It leav
 // These are the features of our production.
 
 ## Team Members
-Othieno Innocent
-Otiga Enemona Emmanuel
-RAY-ELEWA SWEENEY CHIGWEYARUM
-Samuel Olawale Niyi
-Sanni Rihanat Oluwatumileyin
-Sesi Kuton
-Shalom Omini Vincent
-Sumaila Aliyu
-Testimony Adejobi
-Tochukwu Eze Paul
-Umwali Olga
-Uwakwe Ugochukwu
+- Othieno Innocent
+- Otiga Enemona Emmanuel
+- RAY-ELEWA SWEENEY CHIGWEYARUM
+- Samuel Olawale Niyi
+- Sanni Rihanat Oluwatumileyin
+- Sesi Kuton
+- Shalom Omini Vincent
+- Sumaila Aliyu
+- Testimony Adejobi
+- Tochukwu Eze Paul
+- Umwali Olga
+- Uwakwe Ugochukwu
